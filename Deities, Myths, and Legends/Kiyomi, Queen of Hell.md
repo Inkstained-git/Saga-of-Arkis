@@ -12,7 +12,7 @@ Usually manifesting as a curvaceous and colossal kitsune, lavishly dressed and d
 
 ### Divine Domains
 
-Pacts, Devils, Stone, Fire, Death, Enchantment, Illusion,
+Pacts, Devils, Stone, Fire, Death, Enchantment, Illusion
 
 ### Artifacts
 
