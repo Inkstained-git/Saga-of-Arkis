@@ -2,4 +2,4 @@
 
 *"Securing shipments by starlight."*
 
-Led by [[Coordinator Skael]]
+Led by [[Coordinator Skael]], Shining Star Shipping
