@@ -1,0 +1,4 @@
+*"You have all served the Syndicate since the first stone of this city was laid."*
+Officially, there is no such organisation as the Masked Syndicate. Any such rumours are nothing more than the murmurs of the criminals of the [[New Coastview]], born of fear and superstition.
+In that underbelly, however, the murmurs and rumours are too consistent to be entirely fabricated - a group that has fingers and agents in all other factions of the city, led by a mysterious figure known as [[The Masked]], who uses a legendary mythal to shroud their identity behind powerful magic, and who claims to have exerted control over Coastview since it was first founded.
+Every faction and organisation claims that they are free of any influence that such a hidden syndicate may exert, but it is impossible to verify such things - and people claiming to be agents of the Syndicate always seem to be frighteningly well-informed...

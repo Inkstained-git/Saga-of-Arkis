@@ -22,16 +22,6 @@
             }
           },
           {
-            "id": "386833f53ce085ae",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "dfce3eae12544f6c",
             "type": "leaf",
             "state": {
@@ -45,7 +35,8 @@
               "title": "Cult of the Swirled Tails"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,13 +195,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "e4547a6ff3103084",
+  "active": "dfce3eae12544f6c",
   "lastOpenFiles": [
+    "Deities, Myths, and Legends/The Nine/Vlexem.md",
+    "Deities, Myths, and Legends/Vlexem.md",
     "Deities, Myths, and Legends/Kiyomi, Queen of Hell.md",
+    "conflict-files-obsidian-git.md",
     "Factions/Coastview/Cult of the Swirled Tails.md",
     "Deities, Myths, and Legends/The Nine",
     "gitignore",
@@ -243,8 +236,6 @@
     "Geographical Locations/Underdark Rappel.md",
     "Deities, Myths, and Legends/The Nine/Scias.md",
     "the Nonary Land.md",
-    "Deities, Myths, and Legends/The Nine/The Nine Gods.md",
-    "Deities, Myths, and Legends/The Nine/Inere.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
