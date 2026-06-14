@@ -35,8 +35,7 @@
               "title": "Cult of the Swirled Tails"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,16 +194,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfce3eae12544f6c",
+  "active": "e4547a6ff3103084",
   "lastOpenFiles": [
+    "Factions/Coastview/Cult of the Swirled Tails.md",
     "Deities, Myths, and Legends/The Nine/Vlexem.md",
     "Deities, Myths, and Legends/Vlexem.md",
     "Deities, Myths, and Legends/Kiyomi, Queen of Hell.md",
     "conflict-files-obsidian-git.md",
-    "Factions/Coastview/Cult of the Swirled Tails.md",
     "Deities, Myths, and Legends/The Nine",
     "gitignore",
     "Deities, Myths, and Legends/The Nine/Kyna.md",
