@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "c7a098d82a3cb10f",
+            "id": "e4547a6ff3103084",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -303,16 +303,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "bf0dd97b72a38e71",
   "lastOpenFiles": [
     "Factions/Shining Star Shipping.md",
+    "Factions/Brotherhood of the Staff and Leaf.md",
     "Nations, Cities, and Major States/New Coastview.md",
     "People/Ihan.md",
     "People/Head Brother Samiel.md",
-    "Factions/Brotherhood of the Staff and Leaf.md",
     "Historical Events",
     "Concepts of Note/Seekers.md",
     "Concepts of Note",
