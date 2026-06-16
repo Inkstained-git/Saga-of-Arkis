@@ -4,7 +4,11 @@ tags:
   - Coastview
   - Geographical-Location
 dg-publish: true
+aliases:
+  - Coastview
+  - CV
 ---
+# New Coastview
 The capital city of [[The Greater Administrature of Coastview]], located on the southern edge of the [[Boundless Desert]].
 Has a history of war with [[Gran Solhom]], and its predecessor [[Solhom]].
 

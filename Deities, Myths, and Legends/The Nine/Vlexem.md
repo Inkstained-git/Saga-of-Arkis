@@ -6,7 +6,7 @@ tags:
   - Deity
 dg-publish: true
 ---
-### She of Naivete and Cynicism, She That Is Time, The Ender And Collector
+# Vlexem, She of Naivete and Cynicism, She That Is Time, The Ender And Collector
 
 Usually taking the form of an otherwise-ordinary looking human holding a farmer's scythe, Vlexem is the patron deity of farmers, alchemists, and prophets, as well as the Goddess of Time and Death. Her domain is one of great breadth, and her manner can be dismissive and scathing, even towards her followers - but her role in the pantheon is one of great value and importance, and her dismissal comes from her divine traits of cynicism and naivete causing her to speak before she thinks, not malice or malevolence.  
 Usually not manifesting personally, Vlexem's hand is often shown through the sudden presence of sand mysteriously approving wherever her touch is felt. Most commonly, sand can be found where followers of the Vlexite faith have died, evidence that their Goddess has escorted them to her Palace of Sand in the afterlife.

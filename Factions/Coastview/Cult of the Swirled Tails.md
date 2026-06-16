@@ -3,8 +3,11 @@ tags:
   - Coastview
   - Faction
 dg-publish: true
+aliases:
+  - The Cult
 ---
-*"Trust in the fox's grasp."*
+# The Cult of the Swirled Tails
+### *"Trust in the fox's grasp."*
 
 The most prominent religion on the continent other than the [[Church of the Nine Gods]], the Cult of Swirled Tails, led by [[First Adherent Vixa]], worships the kitsune-goddess [[Kiyomi, Queen of Hell]]. 
 An unassuming religious sect, they maintain a series of stores of magical goods and services, offering affordable healing, divinations, and general acts of magical convenience with the minor stipulation that the client or customer listens to a short sermon about the Hell-Fox's majesty - with a greater discount if they are willing to offer her a prayer from their own lips.

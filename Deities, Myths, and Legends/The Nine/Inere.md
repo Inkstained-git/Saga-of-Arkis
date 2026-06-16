@@ -6,7 +6,7 @@ tags:
   - Deity
 dg-publish: true
 ---
-### Goddess of Joy and Sorrow, Fairy Queen of Emotions, Lady of Feeling
+# Inere, Goddess of Joy and Sorrow, Fairy Queen of Emotions, Lady of Feeling
 
 The Church of Inere tells that usually, the Lady of Feeling will manifest in the form of a blonde humanoid woman; slightly above-average in height and with long hair and fairy-like wings, akin to those of a dragonfly.  
 She is the patron of performers, as well as emotion in all its forms - positive and negative. Amongst [[The Nine Gods]], she is the one who represents the Seelie and Unseelie of the Feywilds, as well as interacts most often with the Gods of Fury - maintaining the [[Divine Aegis]] against their whims most directly.  

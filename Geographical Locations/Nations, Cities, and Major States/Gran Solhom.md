@@ -5,6 +5,7 @@ tags:
   - City
 dg-publish: true
 ---
+# Gran Solhom
 When [[Solhom]] fell, the Sun Elf peoples were scattered to the winds of their desert home. Some, seeking to make reparation for centuries of war, struck out towards [[New Coastview]]
 , pledging their help to rebuild and aid the city in finding a new future. Others, pleased that their patron deity, [[The Living Eclipse]], had joined the ranks of the [[Church of the Nine Gods]], set off to [[Whitelake]] out with a more zealous purpose in mind. Striking out to the north-west, along the very foothills of where the [[Barrier Mountains]] touch the [[Boundless Desert]], and started to lay the stones for a new home for the proud elfish race - Gran Solhom.
 

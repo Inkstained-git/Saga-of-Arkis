@@ -4,6 +4,7 @@ tags:
   - Dalhal
 dg-publish: true
 ---
+# Heijarl, Father of Dalhal
 Known as the "Father of [[Dalhal]]", Heijarl was born roughly seven hundred and fifty years ago in a small village of [[The Nonary Land]] known as [[Northferry]]. 
 Spending the first few decades of his life as a ferry-worker across the [[White Lake]], Heijarl's mind was one of pulleys and gears from a young age.
 Fourty years into his work, he took his savings and his family and moved to [[Whitelake]] itself - where he rented a dock and bought a small mountain of iron and timber and set to work. Considered mad by his peers, he spent all his savings over the course of fifteen years, constructing a modular, steam-powered ocean-faring vessel; a home for him and his family that he named "Shining Hall" - Dalhal.

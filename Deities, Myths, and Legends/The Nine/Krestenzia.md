@@ -6,7 +6,7 @@ tags:
   - Deity
 dg-publish: true
 ---
-### Mistress of Creation and Destruction, Earth-breaker, Lady of Beauty
+# Krestenzia, Mistress of Creation and Destruction, Earth-breaker, Lady of Beauty
 
 Usually manifesting as a statuesque giantess with red-blonde hair, adorned with demonic features such as bat wings and ram's horns, Krestenzia is the patron deity of love, athletes, fertility, and all things that advance incrementally. Her manifestations are usually accompanied by clouds of thick, dense mist of unusual colours, creating fogbanks that block sight for miles around.
 

@@ -6,6 +6,7 @@ tags:
   - Independent
 dg-publish: true
 ---
+# Kiyomi, Queen of Hell
 *"Throughout her life before ascension, Kiyomi's focus had ever been on one thing - to win the attention of those around her by absolutely any means necessary.* 
 *Her obsession with the eyes of others led her down numerous paths - exotic dancer, street magician, brothel maiden: anything and everything that could win the affections and, more importantly, the thoughts of anyone who so much as looked at her. Pursuing this, she built her power over centuries, and eventually came to a realisation; winning the attention of the strong was far more exhilarating than the attention of those already beneath her, and those who ranked among the former were dwindling in comparison by the day.*
 *With her ambition unchecked, Kiyomi sowed endless chaos whether or not her former master bade it so long as she was regarded for it - including, famously, the simultaneous destruction of two entire cities. But eventually, she would go on to help save the known world, despite her general lack of interest in people as anything but attention farms, and her reward would be the [[Mantle]] of the Queen of Hell, wrenched from Asmodeus himself.*

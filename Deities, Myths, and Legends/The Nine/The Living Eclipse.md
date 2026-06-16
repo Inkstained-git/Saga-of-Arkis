@@ -8,7 +8,7 @@ tags:
   - Gran-Solhom
 dg-publish: true
 ---
-### The Hidden And The Revealed, The Penitent Sun, The Resplendent Darkness
+# The Living Eclipse, The Hidden And The Revealed, The Penitent Sun, The Resplendent Darkness
 
 The most recently-apotheosised member of [[The Nine Gods]], The Living Eclipse was, until recently, the ruler of [[Solhom]], the [[Sun Incarnate]].  
 After the destruction of Solhom, as part of [[Transition of Magic]], the divine Mantle of [[Abditus]] was transferred to the Living Eclipse - causing their ascension into the God of Magic, Darkness, and Secrets.

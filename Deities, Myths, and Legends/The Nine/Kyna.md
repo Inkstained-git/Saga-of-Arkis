@@ -6,7 +6,7 @@ tags:
   - Whitelake
 dg-publish: true
 ---
-### Matron of Hope and Despair, Tale-teller
+# Kyna, Matron of Hope and Despair, Tale-teller
 
 Habitually manifesting as an elderly female elf, wrapped in robes and with a trailing stole about her body, Kyna is the most common of the Nine to personally manifest; being personally found in the library at the Temple of Kyna in [[Whitelake]] quietly reading on many a tranquil morning.  
 Patron deity of peace, stories, and cats, Kyna preaches that quiet reflection and contemplation are the balm to the despair that threads through the world like a poison; that you can always find your answer in a book, or a kind word from a friend, or a quiet moment stroking a pet.

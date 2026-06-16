@@ -3,8 +3,11 @@ tags:
   - Coastview
   - Faction
 dg-publish: true
+aliases:
+  - NCP
 ---
-*"The Path to the Future"*
+# New Coastview Party
+### *"The Path to the Future"*
 
 Known commonly as the NCP, the New Coastview Party is led by [[Ihan]], and was brought into existence as a result of the diaspora of displaced Sun Elves from [[Solhom]] migrating to the ruins of [[Old Coastview]]. 
 Founded by an elf known as Eliana in the days following the [[Transition of Magic]], the original purpose of the NCP was to facilitate a compact of sorts between the new migrants and the residents of the rebuilding Coastview - in exchange for the Sun Elves offering manpower, magic, and resources to aid in rebuilding the city, the displaced Elves could settle in the city.

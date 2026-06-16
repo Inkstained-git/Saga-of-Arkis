@@ -3,8 +3,12 @@ tags:
   - Coastview
   - Faction
 dg-publish: true
+aliases:
+  - Legion
 ---
-*"By blade and fist!"*
+# The Regolith Legion
+### *"By blade and fist!"*
+
 Led by [[Legion-General Aenan]], the Regolith Legion is a militia; formed and maintained for the defense of [[New Coastview]] against outside threats. Boasting of a storied history defending Coastview, both Old and New, the Legion accepts nearly anybody who can show strength of arms - anybody who wishes may sign up for the testing at their barracks, where the Legion-General will oversee a two-day gauntlet to test if the person is worthy of joining the Legion.
 Backing politics only sporadically, on the rare occasion that they do, the Legion's priorities are for extending the borders of the [[The Greater Administrature of Coastview]] physically - but for maintaining fierce independence from other nations in doing so.
 
