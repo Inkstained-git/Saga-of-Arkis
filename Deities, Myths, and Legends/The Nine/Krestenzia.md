@@ -4,6 +4,7 @@ tags:
   - Myth
   - Legend
   - Deity
+dg-publish: true
 ---
 ### Mistress of Creation and Destruction, Earth-breaker, Lady of Beauty
 

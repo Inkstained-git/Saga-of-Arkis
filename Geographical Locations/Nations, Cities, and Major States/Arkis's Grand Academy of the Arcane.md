@@ -3,6 +3,7 @@ tags:
   - City
   - Geographical-Location
   - The-Academy
+dg-publish: true
 ---
 Situated on the eastern coast of [[Terultimae]] and south of [[Whitelake]], the Academy floats high above the [[Boundless Desert]], with the [[Bluecap Sea]] to the east. To the south-west, [[New Coastview]] stands, a new ally since their rebuilding.
 Floating on the great earthmotes, the Academy was founded a great many years ago by [[Arkis]], known as "The First Mage".

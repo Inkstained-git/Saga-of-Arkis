@@ -3,6 +3,7 @@ tags:
   - City
   - Coastview
   - Geographical-Location
+dg-publish: true
 ---
 The capital city of [[The Greater Administrature of Coastview]], located on the southern edge of the [[Boundless Desert]].
 Has a history of war with [[Gran Solhom]], and its predecessor [[Solhom]].

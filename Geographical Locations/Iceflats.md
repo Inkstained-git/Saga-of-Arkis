@@ -2,6 +2,7 @@
 tags:
   - Geographical-Location
   - Whitelake
+dg-publish: true
 ---
 Located in the very northern reaches of [[The Nonary Land]], the Iceflats are the name for the area to the east of the [[Valley of Swords]], and the north of the [[Shadowlands]].
 The residents of the Iceflats are known to be stubborn and standoffish, suspicious of outsiders. Despite being a nominal part of The Nonary Land, ostensibly under the governance of [[Whitelake]], the people residing there have very rarely seen a tithe collector in several generations, keeping themselves to themselves by and large.

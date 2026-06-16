@@ -1,6 +1,7 @@
 ---
 tags:
   - Geographical-Location
+dg-publish: true
 ---
 Stretching along the entire eastern coast of [[Terultimae]], the Bluecap Sea is a vast and mostly-uncharted body of water. Anybody who sails too far from the coast, or who tries to sail too far to the south-west, is never heard from again.
 The people who sail the treacherous waters most comfortably are the sailors of [[Dalhal]], who have a carefully-charted course they follow year in and year out; spending the warmer months in the northern waters, close to [[Whitelake]], before moving further south as the weather cools, spending the depths of winter anchored to the south of [[New Coastview|Coastview]].

@@ -4,6 +4,7 @@ tags:
   - Legend
   - Myth
   - Whitelake
+dg-publish: true
 ---
 The Nine Gods are the circle of deities that are the primary targets of worship in settlements across [[Terultimae]].
 

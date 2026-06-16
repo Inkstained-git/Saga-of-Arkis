@@ -4,6 +4,7 @@ tags:
   - Legend
   - Myth
   - Whitelake
+dg-publish: true
 ---
 ### Scholar of Curiosity and Ignorance, The Teacher and the Student, The Confused One
 

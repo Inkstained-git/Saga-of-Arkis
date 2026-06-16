@@ -2,6 +2,7 @@
 tags:
   - Coastview
   - Faction
+dg-publish: true
 ---
 *"You have all served the Syndicate since the first stone of this city was laid."*
 Officially, there is no such organisation as the Masked Syndicate. Any such rumours are nothing more than the murmurs of the criminals of the [[New Coastview]], born of fear and superstition.

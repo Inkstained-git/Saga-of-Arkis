@@ -1,6 +1,7 @@
 ---
 tags:
   - Geographical-Location
+dg-publish: true
 ---
 As part of the events leading up to the [[Transition of Magic]], the city of [[Solhom]] was destroyed - its vast protective pillar of sunlight dispelled by the machinations of [[The First Red]], one of the mythical [[Children of Davaris]].
 Within moments of the pillar being dispelled, the city was assaulted by a party of adventurers, and during their assault, a vast magical working was unleashed, killing nearly every inhabitant of the city.

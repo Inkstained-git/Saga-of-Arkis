@@ -2,6 +2,7 @@
 tags:
   - Coastview
   - Faction
+dg-publish: true
 ---
 *"The Path to the Future"*
 

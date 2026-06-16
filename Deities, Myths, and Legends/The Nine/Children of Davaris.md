@@ -3,6 +3,7 @@ tags:
   - Myth
   - Legend
   - Independent
+dg-publish: true
 ---
 Legend holds that [[Davaris]], as part of His forging of the world, first set His hammer to shaping ten draconic children - the Children of Davaris. After doing so, He turned His focus back to work in the holy forge, and set His children to work.
 The ten Children of Davaris are all dragons, exemplars of dragonkind, five metallic and five chromatic - and each was given a task by the Forge Lord.

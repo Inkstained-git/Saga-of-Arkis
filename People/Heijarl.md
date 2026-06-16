@@ -2,6 +2,7 @@
 tags:
   - Person
   - Dalhal
+dg-publish: true
 ---
 Known as the "Father of [[Dalhal]]", Heijarl was born roughly seven hundred and fifty years ago in a small village of [[The Nonary Land]] known as [[Northferry]]. 
 Spending the first few decades of his life as a ferry-worker across the [[White Lake]], Heijarl's mind was one of pulleys and gears from a young age.

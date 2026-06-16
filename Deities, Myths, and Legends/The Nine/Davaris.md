@@ -4,6 +4,7 @@ tags:
   - Legend
   - Myth
   - Whitelake
+dg-publish: true
 ---
 ### Lord of Sound and Silence, The Forge Lord
 

@@ -4,6 +4,7 @@ tags:
   - Whitelake
   - Legend
   - Myth
+dg-publish: true
 ---
 ### Master of Stillness and Movement, The Mantis Lord
 

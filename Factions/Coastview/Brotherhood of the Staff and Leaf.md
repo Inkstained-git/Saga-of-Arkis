@@ -2,6 +2,7 @@
 tags:
   - Coastview
   - Faction
+dg-publish: true
 ---
 *"A hand to help costs nothing."*
 

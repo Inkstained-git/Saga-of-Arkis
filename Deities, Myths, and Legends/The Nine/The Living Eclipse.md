@@ -6,6 +6,7 @@ tags:
   - Deity
   - Solhom
   - Gran-Solhom
+dg-publish: true
 ---
 ### The Hidden And The Revealed, The Penitent Sun, The Resplendent Darkness
 

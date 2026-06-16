@@ -3,6 +3,7 @@ tags:
   - Geographical-Location
   - Dalhal
   - City
+dg-publish: true
 ---
 Floating in the [[Bluecap Sea]] off the coast of [[Terultimae]]'s eastern coast, Dalhal is a vast floating city of metal, a marvel of machinery and ingenuity.
 Founded seven hundred years ago by the Dwarf sailor and engineer [[Heijarl]], the mighty city now sails around the coastline on a three-season pattern.

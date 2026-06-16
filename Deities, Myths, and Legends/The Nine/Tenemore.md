@@ -4,6 +4,7 @@ tags:
   - Myth
   - Legend
   - Deity
+dg-publish: true
 ---
 ### Lady of Victory and Loss, The Battle Queen
 

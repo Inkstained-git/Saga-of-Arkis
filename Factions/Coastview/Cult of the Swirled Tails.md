@@ -2,6 +2,7 @@
 tags:
   - Coastview
   - Faction
+dg-publish: true
 ---
 *"Trust in the fox's grasp."*
 

@@ -2,6 +2,7 @@
 tags:
   - Geographical-Location
   - Coastview
+dg-publish: true
 ---
 Covering the south-eastern chunk of the continent, contains [[Gran Solhom]], The [[Underdark Rappel]], and [[The Greater Administrature of Coastview]], including its capital city, [[New Coastview]]. The desert is roamed by mechanical monstrosities known as Anhydrut, semi-divine constructs who attempt to perpetuate and spread the desert's influence; as a side-effect of their anti-teleportation measures, in the exact center of the desert a small town known as [[Scorn]] has appeared.
 Additionally, roaming the sands are a collective of people known as the [[Dunefolk]], groups of nomadic travellers who are divided into many disparate Kin groups; known to be harsh to law-breakers but kind and fair to travellers who abide their strict rules.

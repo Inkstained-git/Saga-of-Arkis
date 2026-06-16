@@ -6,6 +6,7 @@ aliases:
   - The Laws of Magic
   - Greater Law
   - Lesser Law
+dg-publish: true
 ---
 Enforced by [[Arkis's Grand Academy of the Arcane]], the Laws of Magic are divided into Greater Laws and Lesser Laws. The punishment for breaking the Laws is set, and can only be overturned with a five-sixths vote from the [[Council of Masters]].
 

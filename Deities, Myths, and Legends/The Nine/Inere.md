@@ -4,6 +4,7 @@ tags:
   - Myth
   - Legend
   - Deity
+dg-publish: true
 ---
 ### Goddess of Joy and Sorrow, Fairy Queen of Emotions, Lady of Feeling
 
