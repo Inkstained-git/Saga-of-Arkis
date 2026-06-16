@@ -1,3 +1,10 @@
+---
+tags:
+  - Deity
+  - Legend
+  - Myth
+  - Whitelake
+---
 ### Lord of Sound and Silence, The Forge Lord
 
 Customarily appearing as a vast, iridescent dragon with scales like overlapping shields, according to legend, Davaris is the one who was responsible for the very shaping of the world. Waking in an empty, barren world, the Forge Lord set about shaping the [[Children of Davaris]] - ten great dragons, five chromatic and five metallic - and sent them out into the world with various terraforming tasks, as he set himself to work creating other folk with which to populate the world. Upon finishing his work, the Lord of Sound and Silence went to slumber, trusting his Children to watch over the world in his absence, and according to his church, slumbers still, deep in [[Watchman's Peak]] - the very site at which the first hammerblows shaped the world.

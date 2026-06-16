@@ -1,3 +1,10 @@
+---
+tags:
+  - Pantheon
+  - Legend
+  - Myth
+  - Whitelake
+---
 The Nine Gods are the circle of deities that are the primary targets of worship in settlements across [[Terultimae]].
 
 The center of their church is in [[Whitelake]], and the [[Church of the Nine Gods]] is the largest single organization not affiliated with [[Arkis's Grand Academy of the Arcane]].

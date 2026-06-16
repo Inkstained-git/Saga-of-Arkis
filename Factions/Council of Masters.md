@@ -1,3 +1,8 @@
+---
+tags:
+  - Faction
+  - The-Academy
+---
 Ruling [[Arkis's Grand Academy of the Arcane]], the Council of Masters is comprised of Six Masters, selected from the wisest and most accomplished [[Sage]]s in the Academy.
 The current Masters are:
 Mir, the [[Master of Sky]], current Headmaster of the Academy

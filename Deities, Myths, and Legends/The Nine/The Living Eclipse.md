@@ -1,3 +1,12 @@
+---
+tags:
+  - Whitelake
+  - Myth
+  - Legend
+  - Deity
+  - Solhom
+  - Gran-Solhom
+---
 ### The Hidden And The Revealed, The Penitent Sun, The Resplendent Darkness
 
 The most recently-apotheosised member of [[The Nine Gods]], The Living Eclipse was, until recently, the ruler of [[Solhom]], the [[Sun Incarnate]].  

@@ -1,3 +1,10 @@
+---
+tags:
+  - Whitelake
+  - Myth
+  - Legend
+  - Deity
+---
 ### Lady of Victory and Loss, The Battle Queen
 
 Tenemore, The Battle Queen, is known as the patron of soldiers, warriors, and combatants everywhere - as well as the patron of diplomats, negotiators, and peacebrokers.

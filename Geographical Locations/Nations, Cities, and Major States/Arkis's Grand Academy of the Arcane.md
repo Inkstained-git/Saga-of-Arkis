@@ -1,3 +1,9 @@
+---
+tags:
+  - City
+  - Geographical-Location
+  - The-Academy
+---
 Situated on the eastern coast of [[Terultimae]] and south of [[Whitelake]], the Academy floats high above the [[Boundless Desert]], with the [[Bluecap Sea]] to the east. To the south-west, [[New Coastview]] stands, a new ally since their rebuilding.
 Floating on the great earthmotes, the Academy was founded a great many years ago by [[Arkis]], known as "The First Mage".
 Run now by the [[Council of Masters]], the Academy claims jurisdiction over all arcane magic everywhere, including all mythals and magical phenomena - including the [[Laws of Magic]], a triad of rules that are supposed to keep order and uphold the legacy of Arkis across the known world.

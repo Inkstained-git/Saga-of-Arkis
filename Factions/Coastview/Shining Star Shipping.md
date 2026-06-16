@@ -1,3 +1,8 @@
+---
+tags:
+  - Coastview
+  - Faction
+---
 
 *"Securing shipments by starlight."*
 

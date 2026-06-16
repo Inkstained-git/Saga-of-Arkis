@@ -1,3 +1,10 @@
+---
+tags:
+  - Deity
+  - Legend
+  - Myth
+  - Whitelake
+---
 ### Matron of Hope and Despair, Tale-teller
 
 Habitually manifesting as an elderly female elf, wrapped in robes and with a trailing stole about her body, Kyna is the most common of the Nine to personally manifest; being personally found in the library at the Temple of Kyna in [[Whitelake]] quietly reading on many a tranquil morning.  

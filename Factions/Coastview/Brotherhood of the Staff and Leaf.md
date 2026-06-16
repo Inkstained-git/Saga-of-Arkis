@@ -1,3 +1,8 @@
+---
+tags:
+  - Coastview
+  - Faction
+---
 *"A hand to help costs nothing."*
 
 The Brotherhood of Staff and Leaf, headed by [[Head Brother Samiel]], is a charity for the poor, needy, and homeless. Responsible for a huge number of charitable locations across the city of [[New Coastview]]; many free kitchens, rest houses, and similar such locations, offering their services to any person who falls upon hard times in the city. 

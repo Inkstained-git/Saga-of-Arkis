@@ -1,3 +1,9 @@
+---
+tags:
+  - Geographical-Location
+  - Legend
+  - Myth
+---
 The easternmost peak in the [[Barrier Mountains]], Watchman's Peak is known as a holy site of [[Davaris]] - supposedly the very site where he shaped the world. Originally surrounded by the sands of the [[Boundless Desert]], the growth of the [[Forest of the Spider]] has overtaken the peak in recent years, causing the base to be thickly wooded.
 The mountain has been largely hollowed out, many of its chambers converted into a settlement for Davarian worshippers; however, the Church abandoned the peak a long time ago.
 The mountain is, in actuality, a dormant volcano - the magma supposedly the leftover slag from when Davaris forged the world into existence, and in the centuries since the Church departed, many of the once-settled caves and chambers have been flooded with molten stone.

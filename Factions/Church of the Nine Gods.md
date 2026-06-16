@@ -1,3 +1,8 @@
+---
+tags:
+  - Faction
+  - Whitelake
+---
 The Church of the Nine Gods is the organisation, centered in [[Whitelake]], that worships [[The Nine Gods]], the pantheon that has taken charge of safeguarding mortals in [[Terultimae]].
 
 The Church acts as the primary governing body of [[The Nonary Land]], administering tithings across every settlement and with each specific God's worshippers running the portions of the nation that falls under the purview of their patron's domain.

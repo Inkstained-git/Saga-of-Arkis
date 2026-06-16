@@ -1,3 +1,10 @@
+---
+tags:
+  - Whitelake
+  - Myth
+  - Legend
+  - Deity
+---
 ### Goddess of Joy and Sorrow, Fairy Queen of Emotions, Lady of Feeling
 
 The Church of Inere tells that usually, the Lady of Feeling will manifest in the form of a blonde humanoid woman; slightly above-average in height and with long hair and fairy-like wings, akin to those of a dragonfly.  

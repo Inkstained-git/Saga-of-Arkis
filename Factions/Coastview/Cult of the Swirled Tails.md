@@ -1,3 +1,8 @@
+---
+tags:
+  - Coastview
+  - Faction
+---
 *"Trust in the fox's grasp."*
 
 The most prominent religion on the continent other than the [[Church of the Nine Gods]], the Cult of Swirled Tails, led by [[First Adherent Vixa]], worships the kitsune-goddess [[Kiyomi, Queen of Hell]]. 

@@ -1,3 +1,10 @@
+---
+tags:
+  - Deity
+  - Whitelake
+  - Legend
+  - Myth
+---
 ### Master of Stillness and Movement, The Mantis Lord
 
 Usually manifesting as a large, humanoid insectile creature, reminiscent of a mantis, Xyco is the patron of forethought, new beginnings, and healers, known as a deity of contemplation and reflection.

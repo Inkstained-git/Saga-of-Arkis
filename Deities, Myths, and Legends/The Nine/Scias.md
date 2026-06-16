@@ -1,3 +1,10 @@
+---
+tags:
+  - Deity
+  - Legend
+  - Myth
+  - Whitelake
+---
 ### Scholar of Curiosity and Ignorance, The Teacher and the Student, The Confused One
 
 Usually taking the appearance of a short dwarf, bushy in beard and balding, with a permanent expression of befuddlement on his visage, Scias is the God of Knowledge in its aspect as being ignorant, and the curiosity that cures that ignorance.

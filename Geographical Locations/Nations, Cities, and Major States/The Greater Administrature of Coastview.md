@@ -1,1 +1,7 @@
+---
+tags:
+  - Coastview
+  - Geographical-Location
+  - Nation
+---
 The region covering the [[Boundless Desert]], containing the city of [[New Coastview]] and the town of [[Scorn]].
