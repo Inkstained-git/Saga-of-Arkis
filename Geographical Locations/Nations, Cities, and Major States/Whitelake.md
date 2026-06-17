@@ -27,8 +27,20 @@ The city of Whitelake controls a nation known as [[The Nonary Land]]; reaching a
 
 ### Religion
 
-As may be expected of the religious center of power on the continent, the [[Church of The Nine]] is the predominant religion in Whitelake. However, the further you get from the city itself, the less strongly this influence is felt; outlying regions often paying little more than lip service to the Nine - although there are strong believers in even the furthest settlements.
+As may be expected of the religious center of power on the continent, the [[Church of the Nine Gods]] is the predominant religion in Whitelake. However, the further you get from the city itself, the less strongly this influence is felt; outlying regions often paying little more than lip service to the Nine - although there are strong believers in even the furthest settlements.
 
 ### Trade & Transport
 
 Ever since the Teleportation Circle network started to be established, Whitelake has taken to it eagerly - wanting to reduce the logistical load that comes from transporting goods across their own nation and to their neighbours. Shipments are regularly sent to each outlying settlement, as well as a steady flow of goods to both [[Arkis's Grand Academy of the Arcane|The Academy]] and [[New Coastview|Coastview]].
+
+### Crime and Punishment
+
+Crime in Whitelake is fairly uncommon, and they boast of the lowest recidivism rate of all of the nations of Terultimae - the main reason for this is because of their system of imprisonment, known as [[The Fold]]. 
+When a criminal is due for imprisonment, depending on if they are sentenced to a long-term or short-term interment, two different methods of access to the Fold are used.
+For those prisoners who warrant only a short-term imprisonment, a small pocket of a magicless, featureless demiplane is opened and they are sent through it with enough food, water, and other very basic amenities to last them until their sentence has expired, and a portal opened to permit them to leave.
+If the crime warrants a long-term imprisonment, however, they will instead be sent through a Teleportation Circle into a larger pocket of the Fold - still featureless and magic-less, but the place where all such lifelong prisoners are sent. One way in, and no way out, with daily teleported shipments of food and water sent to keep them alive.
+
+### Architecture and Layout
+
+Primarily constructed of the white stone quarried from the lakebed, Whitelake is a gleaming city of shining marble. With the weather near-continually raining the majority of the year, streets are built to drain easily, with a large portion of the houses raised from the street level on platforms of wood or stone. The most populous streets have magical, invisible covers, causing the rain to catch on them in a pattern that sends striating, rainbow patterns over the white stone, causing the High Streets of Whitelake to be renowned as places of beauty all across the continent.
+On the Low Streets, however, such amenities are not provided for their inhabitants, with their houses often sunken into the ground with long years of neglect, and flooding of basements and cellars is commonplace.
