@@ -3,6 +3,8 @@ tags:
   - Geographical-Location
   - Coastview
 dg-publish: true
+aliases:
+  - The Blessed Dunes
 ---
 # The Boundless Desert
 Covering the south-eastern chunk of the continent, the Boundless Desert contains [[Gran Solhom]], The [[Underdark Rappel]], and [[The Greater Administrature of Coastview]], including its capital city, [[New Coastview]]. 
