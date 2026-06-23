@@ -9,7 +9,6 @@ tags:
 aliases:
   - The First Mage
 dg-publish: true
-dg-home: true
 ---
 
 # Arkis, the First Mage,
