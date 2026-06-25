@@ -11,7 +11,7 @@ aliases:
 dg-publish: true
 ---
 
-# Arkis, the First Mage,
+# Arkis, the First Mage
 Arkis, the First Mage, is renowned across all of [[Terultimae]] for being the first mortal to ever understand the Arcane. 
 Born in [[Whitelake]], Arkis was selected by the [[Church of the Nine Gods]] at a very young age to be a scholar and priest, serving as a librarian in the churches of the Knowledge Gods, [[Abditus]], [[Kyna]], and [[Scias]].
 Educated in the church, Arkis devoured books on the theoretical underpinnings of magic with voracity, eager to understand how the supernatural manipulations of the world that the gods granted her worked.
