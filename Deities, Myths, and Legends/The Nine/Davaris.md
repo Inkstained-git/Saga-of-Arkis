@@ -5,6 +5,8 @@ tags:
   - Myth
   - Whitelake
 dg-publish: true
+aliases:
+  - Davaris, Lord of Sound and Silence
 ---
 # Davaris, Lord of Sound and Silence, The Forge Lord
 

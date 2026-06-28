@@ -5,6 +5,8 @@ tags:
   - Legend
   - Deity
 dg-publish: true
+aliases:
+  - Tenemore, Lady of Victory and Loss
 ---
 # Tenemore, Lady of Victory and Loss, The Battle Queen
 

@@ -5,6 +5,8 @@ tags:
   - Legend
   - Myth
 dg-publish: true
+aliases:
+  - Xyco, Master of Stillness and Movement
 ---
 # Xyco, Master of Stillness and Movement, The Mantis Lord
 

@@ -5,6 +5,8 @@ tags:
   - Legend
   - Deity
 dg-publish: true
+aliases:
+  - Krestenzia, Mistress of Creation and Destruction
 ---
 # Krestenzia, Mistress of Creation and Destruction, Earth-breaker, Lady of Beauty
 

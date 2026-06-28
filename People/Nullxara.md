@@ -3,6 +3,8 @@ tags:
   - Independent
   - Person
 dg-publish: true
+aliases:
+  - Nullxara of the Forest
 ---
 # Nullxara Freytl
 Born to the low-ranking House Freytl in Menzoberranzan, Nullxara was, at birth, nobody of note.  Seeking prestige as she grew older, she took over a minor chapel to the Spider-Goddess Lolth, patron deity of all Drow.

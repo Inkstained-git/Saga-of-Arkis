@@ -3,6 +3,8 @@ tags:
   - Person
   - Dalhal
 dg-publish: true
+aliases:
+  - Heijarl, Father of Dalhal
 ---
 # Heijarl, Father of Dalhal
 Known as the "Father of [[Dalhal]]", Heijarl was born roughly seven hundred and fifty years ago in a small village of [[The Nonary Land]] known as [[Northferry]]. 

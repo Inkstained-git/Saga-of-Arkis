@@ -5,6 +5,8 @@ tags:
   - Myth
   - Whitelake
 dg-publish: true
+aliases:
+  - Scias, Scholar of Curiosity and Ignorance
 ---
 # Scias, Scholar of Curiosity and Ignorance, The Teacher and the Student, The Confused One
 

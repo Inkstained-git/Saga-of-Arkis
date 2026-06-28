@@ -5,6 +5,8 @@ tags:
   - Legend
   - Deity
 dg-publish: true
+aliases:
+  - Inere, Goddess of Joy and Sorrow
 ---
 # Inere, Goddess of Joy and Sorrow, Fairy Queen of Emotions, Lady of Feeling
 

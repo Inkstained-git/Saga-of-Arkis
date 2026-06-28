@@ -7,7 +7,7 @@ tags:
   - The-Academy
   - Independent
 aliases:
-  - The First Mage
+  - Arkis, The First Mage
 dg-publish: true
 ---
 

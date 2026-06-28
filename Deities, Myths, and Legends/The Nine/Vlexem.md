@@ -5,6 +5,8 @@ tags:
   - Legend
   - Deity
 dg-publish: true
+aliases:
+  - Vlexem, She of Naivete and Cynicism
 ---
 # Vlexem, She of Naivete and Cynicism, She That Is Time, The Ender And Collector
 

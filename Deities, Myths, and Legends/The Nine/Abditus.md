@@ -5,6 +5,8 @@ tags:
   - Legend
   - Whitelake
 dg-publish: true
+aliases:
+  - Abditus, Lord of Truth and Lies
 ---
 # Abditus, Lord of Truth and Lies, It that Hides, Secret-Keeper
 

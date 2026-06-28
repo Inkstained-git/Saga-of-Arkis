@@ -5,6 +5,8 @@ tags:
   - Myth
   - Whitelake
 dg-publish: true
+aliases:
+  - Kyna, Matron of Hope and Despair
 ---
 # Kyna, Matron of Hope and Despair, Tale-teller
 
